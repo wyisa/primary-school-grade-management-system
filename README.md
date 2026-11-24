@@ -104,7 +104,7 @@
 ## 🙏 Lời Cảm Ơn
 
 - Giảng viên hướng dẫn: **[Tên GV]**
-- Khoa **[Tên khoa]** — Trường **[Tên trường]**
+- Khoa **[CNTT]** — Trường **[UNETI]**
 - Cộng đồng Stack Overflow, GitHub
 
 ---
