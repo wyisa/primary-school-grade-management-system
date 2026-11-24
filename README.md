@@ -113,8 +113,8 @@
 
 | Thành viên | Vai trò | GitHub |
 |---|---|---|
-| **Quyền** | Nhóm trưởng | [@wyisa](https://github.com/wyisa) |
-| **Minh** | OOD & Testing | _username_ |
+| **Quyền** | Nhóm trưởng | _username_  |
+| **Minh** | OOD & Testing | [@wyisa](https://github.com/wyisa) |
 | **Hoàng** | OOA & Demo | _username_ |
 
 ---
