@@ -113,7 +113,7 @@
 
 | Thành viên | Vai trò | GitHub |
 |---|---|---|
-| **Quyền** | Nhóm trưởng | _username_  |
+| **Quyền** | Nhóm trưởng | [luuthequyen](https://github.com/luuthequyen144-ship-it)  |
 | **Minh** | OOD & Testing | [@wyisa](https://github.com/wyisa) |
 | **Hoàng** | OOA & Demo | _username_ |
 
